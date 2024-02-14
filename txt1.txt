@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi there
+=======
+hi
+ça va bien
+>>>>>>> 14f547bf1f3d0f80fa5ebc3c304109f722c47e1e
+qsfhciouhefo
